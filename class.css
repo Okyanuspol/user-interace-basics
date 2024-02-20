@@ -1,0 +1,14 @@
+h1, h2 {
+    color: blue;
+}
+.my-list-element {
+    font-weight: bold;
+}
+#special-heading {
+    font-size: 40px;
+    color: red;
+}
+h1 {
+    text-align: center;
+    color: aquamarine;
+}

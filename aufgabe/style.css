@@ -1,0 +1,33 @@
+
+.important {
+    color: blue;
+    font-size: 100px;
+    background-color: yellow;
+}
+
+.important-html {
+    background-color: aqua;
+    font-size: 100px;
+}
+
+#hilight {
+    color: blue;
+    font-size: 100px;
+}
+
+body {
+    color: blue;
+}
+
+#title {
+    background-color: brown;
+}
+
+main h2 {
+    background-color: green;
+}
+
+main #quote {
+    background-color: blueviolet;
+}
+
